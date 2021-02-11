@@ -60,7 +60,7 @@ Ask me about **NodeJs,React,Python** - 📫 How to reach me
   </a>
   <a href="https://getbootstrap.com" target="_blank">
     <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"
+      src="https://worldvectorlogo.com/download/bootstrap-4.svg"
       alt="bootstrap"
       width="40"
       height="40"
