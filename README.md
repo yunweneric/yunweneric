@@ -28,7 +28,7 @@
 
 
 
-[![Yunwen's github stats](https://github-readme-stats.vercel.app/api?username=yunweneric&show_icons=true&title_color=fff&icon_color=009688&text_color=9f9f9f&bg_color=0D1117)]()
+[![yunweneric's github stats](https://github-readme-stats.vercel.app/api?username=yunweneric&show_icons=true&title_color=fff&icon_color=009688&text_color=9f9f9f&bg_color=0D1117)]()
 
 [![HitCount](http://hits.dwyl.com/yunweneric/yunweneric.svg)](http://hits.dwyl.com/yunweneric/yunweneric)
 
