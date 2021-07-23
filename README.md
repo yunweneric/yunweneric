@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on `GCE Quizz App` 🚀💙
+- 🔭 I’m currently working on `Greeniser app` 🚀💙
 - 🌱 I’m currently learning Larvel and React
 - 👯 I’m looking to collaborate on a Flutter, Laravel and React Open-Source project! ✌😁
 - 🤔 I’m looking for help with, Meanwhile Nothing 🚀 | Coming Soon 😉
