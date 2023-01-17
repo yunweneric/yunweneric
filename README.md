@@ -3,8 +3,8 @@
 - 🔭 I’m currently working on `parking app` 🚀💙
 - 🌱 I’m currently learning Kotlin and Android native
 - 👯 I’m looking to collaborate on a Flutter, Laravel and React Open-Source project! ✌😁
-- 🤔 I’m looking for help with, Meanwhile Nothing 🚀 | Coming Soon 😉
-- 💬 Ask me about Flutter, Laravel, Javascript and Dart and I will answer eagerly! 😎
+- 🤔 I’m looking for help with, React advanced state management Meanwhile Nothing 🚀 | Coming Soon 😉
+- 💬 Ask me about Flutter, Javascript and Dart and I will answer eagerly! 😎
 - 📫 How to reach me: [Github](https://github.com/yunweneric), [Twitter](https://twitter.com/Yunweneric), [Linkedin](https://www.linkedin.com/in/yunweneric/)
 - 😄 Pronouns: He/Him
 - 📫 Creative Writer at : [Dev.to](https://dev.to/yunweneric)
@@ -26,12 +26,12 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 
-
+<!-- 
 
 [![yunweneric's github stats](https://github-readme-stats.vercel.app/api?username=yunweneric&show_icons=true&title_color=fff&icon_color=009688&text_color=9f9f9f&bg_color=0D1117)]
 
 [![HitCount](http://hits.dwyl.com/yunweneric/yunweneric.svg)](http://hits.dwyl.com/yunweneric/yunweneric)
-
+ -->
 ### Follow me:
 
 <a href="https://www.linkedin.com/in/yunweneric/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
