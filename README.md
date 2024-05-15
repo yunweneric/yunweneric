@@ -15,7 +15,17 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunweneric\&layout=compact&theme=github_dark_dimmed)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunweneric\&repo=flutter-nike-animation\&show_owner=true&theme=github_dark_dimmed)
+|   |   |   |
+|---|---|---|
+| 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunweneric\&repo=flutter-nike-animation\&show_owner=true&theme=github_dark_dimmed) | 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunweneric\&repo=flutter-nike-animation\&show_owner=true&theme=github_dark_dimmed) | 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunweneric\&repo=flutter-nike-animation\&show_owner=true&theme=github_dark_dimmed) |
+|---|---|---|
+| 4 | 5 | 6 |
+|---|---|---|
+| 7 | 8 | 9 |
+
 
 ### Follow me:
 
