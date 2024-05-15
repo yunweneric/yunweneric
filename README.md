@@ -15,6 +15,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunweneric\&layout=compact&theme=github_dark_dimmed)
 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunweneric\&repo=flutter-nike-animation\&show_owner=true)
+
 ### Follow me:
 
 <a href="https://www.linkedin.com/in/yunweneric/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
