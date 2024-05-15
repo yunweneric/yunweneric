@@ -10,12 +10,8 @@
 - 📫 Creative Writer at : [Dev.to](https://dev.to/yunweneric)
 
 
-#### Wakatime
-
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric\&layout=compact&theme=github_dark_dimmed)
 
-
-### Languages & Tools
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunweneric\&layout=compact&theme=github_dark_dimmed)
 
