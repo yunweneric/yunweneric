@@ -13,7 +13,6 @@
 
 #### Wakatime
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric)
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric\&hide_progress=true)
 
