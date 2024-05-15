@@ -12,12 +12,12 @@
 
 #### Wakatime
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric\&layout=compact&theme=transparent)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric\&layout=compact&theme=github_dark_dimmed)
 
 
 ### Languages & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunweneric\&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunweneric\&layout=compact&theme=github_dark_dimmed)
 
 ### Follow me:
 
