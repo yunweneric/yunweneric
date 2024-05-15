@@ -12,7 +12,7 @@
 
 #### Wakatime
 
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric\&layout=compact)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric\&layout=compact&theme=dark)
 
 
 ### Languages & Tools
