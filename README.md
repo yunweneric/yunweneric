@@ -10,7 +10,7 @@
 - 📫 Creative Writer at : [Dev.to](https://dev.to/yunweneric)
 
 #### Wakatime
-//[![wakatime-stats](https://github.com/yunweneric/yunweneric/blob/main/images/stat.svg)](https://wakatime.com/@yunweneric)
+[![wakatime](https://wakatime.com/badge/user/60388972-b8c2-496f-a79f-7e1207dd7621.svg)](https://wakatime.com/@60388972-b8c2-496f-a79f-7e1207dd7621)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric)](https://github.com/anuraghazra/github-readme-stats)
 [![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@yunweneric)
