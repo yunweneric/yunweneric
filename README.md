@@ -17,7 +17,7 @@
 
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunweneric\&repo=flutter-nike-animation\&show_owner=true&theme=github_dark_dimmed) 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunweneric\&repo=flutter-nike-animation\&show_owner=true&theme=github_dark_dimmed) 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunweneric\&repo=flutter-3DCarousel-Slider\&show_owner=true&theme=github_dark_dimmed) 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yunweneric\&repo=flutter-nike-animation\&show_owner=true&theme=github_dark_dimmed) 
 
 
