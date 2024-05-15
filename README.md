@@ -15,9 +15,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunweneric\&layout=compact&theme=github_dark_dimmed)
 
-
+<!--
 ![Flutter Nike Animation](https://github-readme-stats.vercel.app/api/pin/?username=yunweneric\&repo=flutter-nike-animation\&theme=github_dark_dimmed)
 ![Flutter Fruites Animation](https://github-readme-stats.vercel.app/api/pin/?username=yunweneric\&repo=flutter-3DCarousel-Slider\&theme=github_dark_dimmed) 
+-->
 
 
 
