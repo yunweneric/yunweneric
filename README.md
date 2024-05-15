@@ -9,21 +9,15 @@
 - 😄 Pronouns: He/Him
 - 📫 Creative Writer at : [Dev.to](https://dev.to/yunweneric)
 
-- 
 
 #### Wakatime
-
-
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric\&hide_progress=true)
-
-*   Compact layout
 
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric\&layout=compact)
 
 
 ### Languages & Tools
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunweneric\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yunweneric\&layout=compact&theme=dark)
 
 ### Follow me:
 
