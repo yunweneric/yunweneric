@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on `Flutter Animations` 🚀💙
 - 🌱 I’m currently learning ML Tools
-- 👯 I’m looking to collaborate on a Flutter and React Open-Source project! ✌😁
+- 👯 I’m looking to collaborate on a Flutter and React Open-Source project! 😁
 - 🤔 I’m looking for help with, React advanced state management Meanwhile Nothing 🚀 | Coming Soon 😉
 - 💬 Ask me about Flutter, Javascript, Typescript, Python and Dart and I will answer eagerly! 😎
 - 📫 How to reach me: [Github](https://github.com/yunweneric), [Twitter](https://twitter.com/Yunweneric), [Linkedin](https://www.linkedin.com/in/yunweneric/)
