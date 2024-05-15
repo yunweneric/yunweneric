@@ -11,7 +11,7 @@
 
 #### Wakatime
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric&theme=dark)
+[Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yunweneric&theme=dark)
 
 
 ### Languages & Tools
