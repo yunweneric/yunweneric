@@ -9,6 +9,10 @@
 - 😄 Pronouns: He/Him
 - 📫 Creative Writer at : [Dev.to](https://dev.to/yunweneric)
 
+#### Wakatime
+[![wakatime-stats](https://github.com/yunweneric/yunweneric/blob/main/images/stat.svg)](https://wakatime.com/@yunweneric)
+
+[![wakatime](https://wakatime.com/badge/user/a0876b4f-af83-47cb-b907-76ced9e28a6b.svg)](https://wakatime.com/@yunweneric)
 
 ### Languages & Tools
 
